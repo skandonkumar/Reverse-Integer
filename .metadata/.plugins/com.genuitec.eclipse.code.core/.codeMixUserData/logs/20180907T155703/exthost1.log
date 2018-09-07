@@ -1,0 +1,43 @@
+[2018-09-07 15:57:24.006] [exthost1] [info] extension host started
+[2018-09-07 15:57:24.044] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:24.044] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-09-07 15:57:25.820] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:25.820] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\git\out\main
+[2018-09-07 15:57:34.676] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:34.676] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-09-07 15:57:35.411] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:35.411] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-09-07 15:57:35.860] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:35.860] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-09-07 15:57:36.531] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:36.531] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-09-07 15:57:38.358] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:38.358] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-09-07 15:57:38.415] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:38.415] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\hookyqr.beautify-1.3.0\extension
+[2018-09-07 15:57:41.854] [exthost1] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:57:41.854] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\zignd.html-css-class-completion-1.17.1\out\src\extension
+[2018-09-07 15:58:42.165] [exthost1] [info] extension host started
+[2018-09-07 15:58:42.198] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.198] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-09-07 15:58:42.269] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.269] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\git\out\main
+[2018-09-07 15:58:42.479] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.479] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-09-07 15:58:42.493] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.493] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-09-07 15:58:42.501] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.501] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-09-07 15:58:42.516] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.516] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-09-07 15:58:42.599] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.599] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-09-07 15:58:42.604] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.604] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\hookyqr.beautify-1.3.0\extension
+[2018-09-07 15:58:42.663] [exthost1] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2018-09-07 15:58:42.663] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\skand\.vscode\extensions\zignd.html-css-class-completion-1.17.1\out\src\extension
+[2018-09-07 15:58:45.389] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-07 15:58:45.389] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-09-07 15:58:45.413] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-07 15:58:45.413] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\skand\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain
+[2018-09-07 15:58:49.607] [exthost1] [info] eager extensions activated

@@ -26,3 +26,5 @@ while(num != 0) {
             num /= 10;
         }
 However, I wanted to do it with string manipulation. 
+
+//If you think the text is not in format, kindly click on Raw button at the top.
